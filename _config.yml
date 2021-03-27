@@ -26,7 +26,7 @@ github: jackn11
 # twitter: twitter
 # tel: +44 0000 000000
 # tel_full: tel:+440000000000
-# google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+ google_maps: 'https://www.google.com/maps/search/?api=1&query=Toronto&query_place_id=ChIJpTvG15DL1IkRd8S0KlBVNTI'
 address:
 #  street: 44 Perth Street
 #  postcode: EH3 5BL
