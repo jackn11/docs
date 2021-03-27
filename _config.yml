@@ -32,7 +32,7 @@ address:
 #  postcode: EH3 5BL
   city: Toronto, Ontario
   country: Canada
-google_analytics: UA-69300817-1
+#google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
